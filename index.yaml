@@ -3,6 +3,16 @@ entries:
   mprest:
   - apiVersion: v2
     appVersion: v1.0
+    created: "2024-05-28T10:01:04.621674584Z"
+    description: A Helm chart for Kubernetes
+    digest: 0be1c733bfd6b5ddb88855190d3e134f6c485a34c77057051421bef0a96c3f20
+    name: mprest
+    type: application
+    urls:
+    - https://github.com/ml019/helm/releases/download/mprest-0.5.0/mprest-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: v1.0
     created: "2024-05-28T09:02:13.067273643Z"
     description: A Helm chart for Kubernetes
     digest: bb08bf0bcbdfee2d89915850b50ebe2727b4f4fdc9a802fd617e5470bbb28acc
@@ -61,4 +71,4 @@ entries:
     urls:
     - https://github.com/ml019/helm/releases/download/mprest-0.1.1/mprest-0.1.1.tgz
     version: 0.1.1
-generated: "2024-05-28T09:02:13.067299191Z"
+generated: "2024-05-28T10:01:04.621703027Z"
